@@ -28,6 +28,4 @@ Contributions are always welcome! If you’d like to enhance features, fix bugs,
 
 ![Screenshot 2024-12-23 121139](https://github.com/user-attachments/assets/16c0a167-704d-4056-af40-fc03b20fa80f)
 
-![WhatsApp Image 2025-01-12 at 13 54 34_0a9db5f9](https://github.com/user-attachments/assets/d4ed1c36-e87c-4d89-b912-9dd0438d2052)
-![WhatsApp Image 2025-01-12 at 13 54 35_cef1ce91](https://github.com/user-attachments/assets/6e010a20-4036-45e2-b030-b3a65b629bc5)
 
