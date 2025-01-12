@@ -27,4 +27,7 @@ Contributing:
 Contributions are always welcome! If you’d like to enhance features, fix bugs, or improve design elements, feel free to fork the repository, make changes, and submit a pull request.
 
 ![Screenshot 2024-12-23 121139](https://github.com/user-attachments/assets/16c0a167-704d-4056-af40-fc03b20fa80f)
-![Screenshot 2024-12-23 121132](https://github.com/user-attachments/assets/83e29aaa-6ed7-45c8-a49f-0e51ad0339ea)
+
+![WhatsApp Image 2025-01-12 at 13 54 34_0a9db5f9](https://github.com/user-attachments/assets/d4ed1c36-e87c-4d89-b912-9dd0438d2052)
+![WhatsApp Image 2025-01-12 at 13 54 35_cef1ce91](https://github.com/user-attachments/assets/6e010a20-4036-45e2-b030-b3a65b629bc5)
+![WhatsApp Image 2025-01-12 at 13 54 35_55cba510](https://github.com/user-attachments/assets/eef49588-180d-458f-9faa-44e7b284e7bb)
