@@ -26,3 +26,5 @@ Explore the products, add items to the basket, and watch the total update dynami
 Contributing:
 Contributions are always welcome! If you’d like to enhance features, fix bugs, or improve design elements, feel free to fork the repository, make changes, and submit a pull request.
 
+![Screenshot 2024-12-23 121139](https://github.com/user-attachments/assets/16c0a167-704d-4056-af40-fc03b20fa80f)
+![Screenshot 2024-12-23 121132](https://github.com/user-attachments/assets/83e29aaa-6ed7-45c8-a49f-0e51ad0339ea)
