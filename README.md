@@ -14,6 +14,9 @@ HTML5: For the structure and semantic layout of the website.
 CSS3: For styling, responsive design, and animations.
 JavaScript: For enabling dynamic and interactive features like real-time basket updates.
 
+Live Demo:
+Check out the live website at https://zfashion-collection.netlify.app/
+
 How to Use:
 Clone the repository to your local machine:
 bash
